@@ -1,3 +1,3 @@
-import ReactSelectNaijaStates from "./select"
+import ReactSelectNaijaStates from "./select";
 
-export default ReactSelectNaijaStates
+export default ReactSelectNaijaStates;

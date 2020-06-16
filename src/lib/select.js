@@ -30,7 +30,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Umuahia North",
         "Umuahia South",
         "Umuahia-North",
-        "Umunneochi"
+        "Umunneochi",
       ],
       Adamawa: [
         "Demsa",
@@ -53,7 +53,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Shelleng",
         "Song",
         "Toungo",
-        "Yola"
+        "Yola",
       ],
       "Akwa Ibom": [
         "Abak",
@@ -88,7 +88,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Uru Offong Oruko",
         "Uruan",
         "Uruk-Anam",
-        "Uyo"
+        "Uyo",
       ],
       Anambra: [
         "Aguata",
@@ -120,7 +120,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Oti",
         "Otu-Ocha",
         "Ubuluizor Ihiala",
-        "Uyi"
+        "Uyi",
       ],
       Bauchi: [
         "Alkaleri",
@@ -142,7 +142,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Tafawa-Balewa",
         "Toro",
         "Warji",
-        "Zaki"
+        "Zaki",
       ],
       Benue: [
         "Ado",
@@ -167,7 +167,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Tarka",
         "Ukum",
         "Ushongo",
-        "Vandeikya"
+        "Vandeikya",
       ],
       Borno: [
         "Abadan",
@@ -196,7 +196,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Mongunu",
         "Ngala",
         "Nganzai",
-        "Shani"
+        "Shani",
       ],
       Bayelsa: [
         "Adagbabiri",
@@ -210,7 +210,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Sagbama",
         "Southern-Ijaw",
         "Toru-Abubo",
-        "Yenegoa"
+        "Yenegoa",
       ],
       "Cross River": [
         "Abi",
@@ -232,7 +232,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Ogoja",
         "Ugep-North",
         "Yakurr",
-        "Yala"
+        "Yala",
       ],
       Delta: [
         "Aniocha North",
@@ -279,7 +279,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Uwvie",
         "Warri-Central",
         "Warri-North",
-        "Warri-South"
+        "Warri-South",
       ],
       Ebonyi: [
         "Abakaliki",
@@ -296,7 +296,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Obaukwu",
         "Ohakwu",
         "Onicha",
-        "Ukaba"
+        "Ukaba",
       ],
       Edo: [
         "Afokpella",
@@ -327,7 +327,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Owan East",
         "Owan-East",
         "Owan-West",
-        "Uhunmwonde"
+        "Uhunmwonde",
       ],
       Ekiti: [
         "Ado-Ekiti",
@@ -347,7 +347,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Irepodun/Ifelodun",
         "Ise-Orun",
         "Moba",
-        "Oye"
+        "Oye",
       ],
       Enugu: [
         "Aninri",
@@ -367,7 +367,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Oji-River",
         "Udenu",
         "Udi",
-        "Uzo-Uwani"
+        "Uzo-Uwani",
       ],
       "Federal Capital Territory": [
         "Abaji",
@@ -375,7 +375,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Gwagwalada",
         "Kuje",
         "Bwari",
-        "Kwali"
+        "Kwali",
       ],
       Gombe: [
         "Akko",
@@ -388,7 +388,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Kwami",
         "Nafada/Bajoga",
         "Shomgom",
-        "Yamaltu/Deba"
+        "Yamaltu/Deba",
       ],
       Imo: [
         "Aboh-Mbaise",
@@ -426,7 +426,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Ugiri-Ike Ikeduru",
         "Ugiri-Ikedikeduru",
         "Unbano",
-        "Zinihitte"
+        "Zinihitte",
       ],
       Jigawa: [
         "Auyo",
@@ -455,7 +455,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Roni",
         "Sule-Tankarkar",
         "Taura",
-        "Yankwashi"
+        "Yankwashi",
       ],
       Kebbi: [
         "Aleiro",
@@ -479,7 +479,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Suru",
         "Wasagu",
         "Yauri",
-        "Zuru"
+        "Zuru",
       ],
       Kaduna: [
         "Birnin-Gwari",
@@ -506,7 +506,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Soba",
         "Tudun-Wada/Makera",
         "Zango-Kataf",
-        "Zaria"
+        "Zaria",
       ],
       Kano: [
         "Ajingi",
@@ -551,7 +551,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Tudun-Wada",
         "Ungogo",
         "Warawa",
-        "Wudil"
+        "Wudil",
       ],
       Kogi: [
         "Adavi",
@@ -577,7 +577,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Oru",
         "Oyi",
         "Yagba-East",
-        "Yagba-West"
+        "Yagba-West",
       ],
       Katsina: [
         "Bakori",
@@ -613,7 +613,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Sabuwa",
         "Safana",
         "Sandamu",
-        "Zango"
+        "Zango",
       ],
       Kwara: [
         "Asa",
@@ -631,7 +631,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Offa",
         "Oke ero",
         "Oyun",
-        "Pategi"
+        "Pategi",
       ],
       Lagos: [
         "Agege",
@@ -656,7 +656,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Shomolu",
         "Somolu",
         "Suru-Lere",
-        "Yewa-South"
+        "Yewa-South",
       ],
       Nassarawa: [
         "Akwanga",
@@ -670,7 +670,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Nassawara",
         "Nassawara Eggon",
         "Obi",
-        "Wambu"
+        "Wambu",
       ],
       Niger: [
         "Agaie",
@@ -697,7 +697,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Shiroro",
         "Suleja",
         "Tafa",
-        "Wushishi"
+        "Wushishi",
       ],
       Ogun: [
         "Abeokuta-North",
@@ -728,7 +728,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Remo-North",
         "Sagamu",
         "Shagamu",
-        "Yewa"
+        "Yewa",
       ],
       Ondo: [
         "Akoko",
@@ -756,7 +756,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Ondo West",
         "Ondo-East",
         "Ose",
-        "Owo"
+        "Owo",
       ],
       Osun: [
         "Atakumosa",
@@ -790,7 +790,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Olorunda",
         "Ori-Ade",
         "Orolu",
-        "Osogbo"
+        "Osogbo",
       ],
       Oyo: [
         "Afijio",
@@ -825,7 +825,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Oyo-West",
         "Saki-East",
         "Saki-West",
-        "Surulere"
+        "Surulere",
       ],
       Plateau: [
         "Barkin-Ladi",
@@ -844,7 +844,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Quan'Anpan",
         "Riyom",
         "Shendam",
-        "Wase"
+        "Wase",
       ],
       Rivers: [
         "Aboa-Odual",
@@ -872,7 +872,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Opobo/Nkoro",
         "Oyigbo",
         "Port-Harcourt",
-        "Tai"
+        "Tai",
       ],
       Sokoto: [
         "Binji",
@@ -896,7 +896,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Tureta",
         "Wamakko",
         "Wurno",
-        "Yabo"
+        "Yabo",
       ],
       Taraba: [
         "Ardo-Kola",
@@ -915,7 +915,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Ussa",
         "Wukari",
         "Yorro",
-        "Zing"
+        "Zing",
       ],
       Yobe: [
         "Bade",
@@ -935,7 +935,7 @@ class ReactSelectNaijaStates extends React.Component {
         "Potiskum",
         "Tarmua",
         "Yunusari",
-        "Yusufari"
+        "Yusufari",
       ],
       Zamfara: [
         "Anka",
@@ -952,8 +952,8 @@ class ReactSelectNaijaStates extends React.Component {
         "Shinkafi",
         "Talata-Mafara",
         "Tsafe",
-        "Zurmi"
-      ]
+        "Zurmi",
+      ],
     };
 
     return (
